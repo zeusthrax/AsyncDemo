@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>waf</id>
+    <version>3.0.0</version>
+    <title>WPF Application Framework (WAF)</title>
+    <authors>jbe2277</authors>
+    <owners>jbe2277</owners>
+    <licenseUrl>http://waf.codeplex.com/license</licenseUrl>
+    <projectUrl>http://waf.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The WPF Application Framework (WAF) is a lightweight Framework that helps you to create well structured WPF Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel (aka MVVM, M-V-VM, PresentationModel) pattern.</description>
+    <releaseNotes />
+    <copyright>Copyright 2013</copyright>
+    <tags>WPF MVVM WAF XAML Model-View-ViewModel UI MVC ViewModel PresentationModel Architecture Module Layered</tags>
+  </metadata>
+</package>
